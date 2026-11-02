@@ -34,7 +34,7 @@ Avec un découpage classique des données, le modèle atteint **99,7 %** de pré
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/manouGitHub79/classification-defauts-electriques.git
+git clone https://github.com/boko-manouan/classification-defauts-electriques.git
 cd classification-defauts-electriques
 python -m venv .venv
 # Windows
