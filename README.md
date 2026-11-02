@@ -52,4 +52,4 @@ Python · pandas · NumPy · scikit-learn · Matplotlib · seaborn · Git
 
 ## Auteur
 
-Boko Manouan, étudiant en Master 2 EEA, parcours Énergie électrique, à l'Université de Lorraine · [LinkedIn](https://www.linkedin.com/in/boko-manouan)# Classification de défauts électriques sur une ligne de transport
+Boko Manouan, étudiant en Master 2 EEA, parcours Énergie électrique, à l'Université de Lorraine · [LinkedIn](https://www.linkedin.com/in/boko-manouan)
